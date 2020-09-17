@@ -19,4 +19,6 @@ def using_delete(instructors, element)
   instructors.delete("Steven")
 end
 
-def using_delete_at()
+def using_delete_at(famous_robots, num)
+  famous_robots.
+end
